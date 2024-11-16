@@ -47,9 +47,7 @@
 ]</a></li>
   <li><a href="link-to-certificate" target="_blank">Certificate 2: [SQL for Data Analytics]</a></li>
   <li><a href="link-to-certificate" target="_blank">Certificate 3: [Social Summer of Code]</a></li>
-  <li><a href="link-to-certificate" target="_blank">Certificate 4: [Course Title]</a></li>
-  <li><a href="link-to-certificate" target="_blank">Certificate 5: [Course Title]</a></li>
-</ul>
+  
 
 <h3 align="left"><strong>📈 My GitHub Stats:</strong></h3>
 <p align="left">
