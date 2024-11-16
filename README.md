@@ -1,19 +1,48 @@
-<h1 align="center">Hi 👋, I'm Sudhanshu Dwivedi</h1>
-<h3 align="center">B.Tech Student| Data Science Enthusiast & Learner | Web Developer</h3>
+# Hello, I'm Sudhanshu Dwivedi! 👋
 
-- 🔭 I’m currently working on **MedAlert**
+## 👨‍💻 About Me:
+- 🔭 **Currently Working on**: Data Analytics, Web Development, and IntelliBed Project (SOS feature)
+- 🎓 **Pursuing BTech**: [Your College Name], [Location]
+- 🌱 **Learning**: Python for Data Analytics, Django, Machine Learning
+- 💬 **Ask Me About**: Python, Data Analysis, Web Development, C, DSA
+- ⚡ **Fun Fact**: I enjoy coding challenges and solving complex problems! 😉
 
-- 🌱 I’m currently learning **Python for Data Analytics,Django for building web applications, Data Analysis techniques and tools (Pandas, NumPy, Matplotlib)**
+## 📧 Reach Me:
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/sudhanshu-dwivedi-98a5672b5/)
+[![Gmail](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg)](mailto:sudhanshu.d@your-email.com)
+[![Twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg)](https://twitter.com/yourhandle)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sudhanshu-dwivedi-98a5672b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhanshu-dwivedi-98a5672b5" height="30" width="40" /></a>
-<a href="https://instagram.com/xxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xxxx" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sudhanshu_2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sudhanshu_2004" height="30" width="40" /></a>
-<a href="https://discord.gg/sudhanshudwivedi18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sudhanshudwivedi18" height="30" width="40" /></a>
-</p>
+## 🚀 My Tech Stack:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+### Languages:
+![Python](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/python.svg)
+![JavaScript](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/javascript.svg)
+![C](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/c.svg)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudh182004&show_icons=true&locale=en&layout=compact" alt="sudh182004" /></p>
+### Frameworks & Technologies:
+![Django](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/django.svg)
+![Flask](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/flask.svg)
+![Google Cloud](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/google-cloud.svg)
+![NumPy](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/numpy.svg)
+![Pandas](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/pandas.svg)
+![Matplotlib](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/matplotlib.svg)
+
+### Developer Tools:
+![VS Code](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/vscode.svg)
+![Git](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/git.svg)
+![Linux](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/linux.svg)
+![Tableau](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/tableau.svg)
+
+## 🎓 Education:
+- **Bachelor of Technology**, Computer Science Engineering  
+  [Your College Name], [Location]  
+  GPA: [Your GPA] (2021 - Present)
+
+## 🏅 Certifications:
+- [Data Science Certification](link-to-certificate)
+- [Machine Learning Specialization](link-to-certificate)
+- [Python for Data Analytics](link-to-certificate)
+- [Django Web Development](link-to-certificate)
+- [Cloud Computing with Google Cloud](link-to-certificate)
+- ... and more!  
+Some of the online certificates of mine 😮‍💨
