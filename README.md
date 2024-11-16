@@ -12,12 +12,12 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" dir="auto" style="display: flex;">
   <a href="https://linkedin.com/in/udhanshu-dwivedi-98a5672b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udhanshu-dwivedi-98a5672b5" height="30" width="40" /></a>
   <a href="https://instagram.com/xxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xxxx" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/sudhanshu_2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sudhanshu_2004" height="30" width="40" /></a>
- <a href="mailto:sudh182005@gmail.com" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="40" height="40" />
+<a href="mailto:sudh182005@gmail.com">
+    <img src="https://camo.githubusercontent.com/4979a24f3b6feaf5a4a00dd521ac0631a9c80d67db9a24fc386a12ddeadc88c3/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f372f37652f476d61696c5f69636f6e5f253238323032302532392e7376672f3235363070782d476d61696c5f69636f6e5f253238323032302532392e7376672e706e67" alt="Gmail" width="40" height="40" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" style="max-width: max-content;max-height: max-content;">
   </a>
 </p>
 
