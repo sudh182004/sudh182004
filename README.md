@@ -1,23 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Dwivedi</h1>
 <h3 align="center">B.Tech Student | Data Science Enthusiast & Learner | Web Developer</h3>
 
-<p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=sudh182004&show_icons=true&locale=en" alt="sudh182004" /> 
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudh182004" alt="sudh182004" />
-</p>
-
-<p align="left">
-  <img src="https://holopin.me/sudh182004" alt="holopin badges" />
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sudh182004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-  <img src="https://img.icons8.com/ios-filled/50/000000/eye.png" alt="eye-icon" height="30" width="30" /> Profile Views
-</p>
-
 - 🔭 I’m currently working on **MedAlert**
 - 🌱 I’m currently learning **Python for Data Analytics**, **Django for building web applications**, **Data Analysis techniques and tools** (Pandas, NumPy, Matplotlib)
 
@@ -61,10 +44,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudh182004&show_icons=true&locale=en&layout=compact" alt="sudh182004" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sudh182004&show_icons=true&locale=en" alt="sudh182004" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudh182004&" alt="sudh182004" />
+</p>
+<h3 align="left">👀 Profile Views:</h3>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudh182004" alt="sudh182004" />
+</p>
+<h3 align="left">👀 Profile Views:</h3>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sudh182004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://img.icons8.com/ios-filled/50/000000/eye.png" alt="eye-icon" height="30" width="30" /> Profile Views
 </p>
