@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Dwivedi</h1>
 <h3 align="center" style="margin-bottom: 50px;">B.Tech Student | Data Science Enthusiast & Learner | Web Developer</h3>
 
-
+- 🎓 Pursuing BTech: ABES Institute of Technology, Ghaziabad
 - 🔭 I’m currently working on **MedAlert**
 - 🌱 I’m currently learning **Python for Data Analytics**, **Django for building web applications**, **Data Analysis techniques and tools** (Pandas, NumPy, Matplotlib)
-
+- ⚡ Fun Fact: A perfect combo to keep the ideas flowing and the bugs at bay! ☕💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" dir="auto" style="display: flex;">
@@ -18,7 +18,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sudhanshu_2004" height="30" width="40" />
   </a> -->
   <a href="mailto:sudh182005@gmail.com">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="37" height="28" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="35" height="26" />
   </a>
 </p>
 
