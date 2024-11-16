@@ -1,67 +1,50 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Dwivedi</h1>
 <h3 align="center">B.Tech Student | Data Science Enthusiast & Learner | Web Developer</h3>
 
-- 🔭 I’m currently working on **MedAlert** (SOS Feature)
-- 🌱 I’m currently learning **Python for Data Analytics**, **Django for building web applications**, **Machine Learning**
-- 💬 Ask Me About: **Python**, **Data Analysis**, **Web Development**, **C**, **DSA**
-- ⚡ Fun Fact: I enjoy coding challenges and solving complex problems! 😉
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudh182004&label=Profile%20views&color=0e75b6&style=flat" alt="sudh182004" /> </p>
 
-## 📧 Connect with me::
-<p align="center">
-  <a href="https://linkedin.com/in/sudhanshu-dwivedi-98a5672b5" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
-  </a>
-  <a href="mailto:your-email@example.com" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" width="40" height="40" />
-  </a>
-  <a href="https://twitter.com/yourhandle" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="40" height="40" />
-  </a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudh182004" alt="sudh182004" /></a> </p>
+
+- 🔭 I’m currently working on **MedAlert**
+- 🌱 I’m currently learning **Python for Data Analytics**, **Django for building web applications**, **Data Analysis techniques and tools** (Pandas, NumPy, Matplotlib)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/udhanshu-dwivedi-98a5672b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udhanshu-dwivedi-98a5672b5" height="30" width="40" /></a>
+  <a href="https://instagram.com/xxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xxxx" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/sudhanshu_2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sudhanshu_2004" height="30" width="40" /></a>
 </p>
 
-## 🚀 My Tech Stack:
-
-### Languages:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/python.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/javascript.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/c.svg" alt="C" width="40" height="40" />
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-### Frameworks & Technologies:
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/django.svg" alt="Django" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/flask.svg" alt="Flask" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/google-cloud.svg" alt="Google Cloud" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/numpy.svg" alt="NumPy" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/pandas.svg" alt="Pandas" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/matplotlib.svg" alt="Matplotlib" width="40" height="40" />
+<h3 align="left">Certifications:</h3>
+<ul>
+  <li><a href="link-to-certificate" target="_blank">Certificate 1: [Course Title]</a></li>
+  <li><a href="link-to-certificate" target="_blank">Certificate 2: [Course Title]</a></li>
+  <li><a href="link-to-certificate" target="_blank">Certificate 3: [Course Title]</a></li>
+  <li><a href="link-to-certificate" target="_blank">Certificate 4: [Course Title]</a></li>
+  <li><a href="link-to-certificate" target="_blank">Certificate 5: [Course Title]</a></li>
+</ul>
+
+<h3 align="left">My GitHub Stats:</h3>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudh182004&show_icons=true&locale=en&layout=compact" alt="sudh182004" />
 </p>
 
-### Developer Tools:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/vscode.svg" alt="VS Code" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/git.svg" alt="Git" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/linux.svg" alt="Linux" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Tech/tableau.svg" alt="Tableau" width="40" height="40" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sudh182004&show_icons=true&locale=en" alt="sudh182004" />
 </p>
 
-## 🎓 Education:
-- **Bachelor of Technology**, Computer Science Engineering  
-  [Your College Name], [Location]  
-  GPA: [Your GPA] (2021 - Present)
-
-## 🏅 Certifications:
-- [Certificate 1](link-to-certificate)  
-- [Certificate 2](link-to-certificate)  
-- [Certificate 3](link-to-certificate)  
-- [Certificate 4](link-to-certificate)  
-- [Certificate 5](link-to-certificate)  
-- ... and more!
-
-Some of the online certificates of mine 😮‍💨
-
-## 📊 My GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudh182004&show_icons=true&locale=en&layout=compact" alt="Sudhanshu's top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudh182004&" alt="sudh182004" />
 </p>
