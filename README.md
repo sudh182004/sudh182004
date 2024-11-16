@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Dwivedi</h1>
 <h3 align="center">B.Tech Student | Data Science Enthusiast & Learner | Web Developer</h3>
 
-<h2 style="margin-top: 55px";>
+<p style="margin-top: 55px";>
 - 🔭 I’m currently working on **MedAlert**
 - 🌱 I’m currently learning **Python for Data Analytics**, **Django for building web applications**, **Data Analysis techniques and tools** (Pandas, NumPy, Matplotlib)
-</h2>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" dir="auto" style="display: flex;">
