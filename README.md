@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+## 🛠 Tech Stack
+- **Languages**: ![Python](https://img.shields.io/badge/Python-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+- **Web Development**: HTML, CSS ,
+- **Data Analysis Tools**: Pandas, NumPy, Matplotlib
+- **Frameworks & Libraries**: [Add any if applicable, e.g., React, Node.js]
+- **Tools**: Git, VSCode, [any other tools you use]
+
 <!--
 **sudh182004/sudh182004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
