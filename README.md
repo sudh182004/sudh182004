@@ -2,7 +2,7 @@
 <h3 align="center" style="margin-bottom: 50px;">B.Tech Student | Data Science Enthusiast & Learner | Web Developer</h3>
 
 - 🎓 **Pursuing BTech**: ABES Institute of Technology, Ghaziabad
-- 🔭 **I’m currently working on** **MedAlert**
+- 🔭 **I’m currently working on**: MedAlert (SOS)
 - 🌱 **I’m currently learning** **Python for Data Analytics**, **Django for building web applications**, **Data Analysis techniques and tools** (Pandas, NumPy, Matplotlib)
 - ⚡ **Fun Fact**: A perfect combo to keep the ideas flowing and the bugs at bay! ☕💻
 
