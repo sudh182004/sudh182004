@@ -43,9 +43,10 @@
 </p>
 <h3 align="left"><strong>Certifications:</strong></h3>
 <ul>
-  <li><a href="link-to-certificate" target="_blank">Certificate 1: [Course Title]</a></li>
-  <li><a href="link-to-certificate" target="_blank">Certificate 2: [Course Title]</a></li>
-  <li><a href="link-to-certificate" target="_blank">Certificate 3: [Course Title]</a></li>
+  <li><a href="link-to-certificate" target="_blank">Certificate 1: [Introduction to Programming Using Python
+]</a></li>
+  <li><a href="link-to-certificate" target="_blank">Certificate 2: [SQL for Data Analytics]</a></li>
+  <li><a href="link-to-certificate" target="_blank">Certificate 3: [Social Summer of Code]</a></li>
   <li><a href="link-to-certificate" target="_blank">Certificate 4: [Course Title]</a></li>
   <li><a href="link-to-certificate" target="_blank">Certificate 5: [Course Title]</a></li>
 </ul>
