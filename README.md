@@ -18,7 +18,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sudhanshu_2004" height="30" width="40" />
   </a> -->
   <a href="mailto:sudh182005@gmail.com">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="40" height="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail" width="37" height="28" />
   </a>
 </p>
 
@@ -62,12 +62,11 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudh182004&" alt="sudh182004" />
 </p>
-<h3 align="left">👀 Profile Views:</h3>
+<h3 align="left">🏆 GitHub Profile Trophy:</h3>
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=sudh182004" alt="sudh182004" />
 </p>
 <h3 align="left">👀 Profile Views:</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sudh182004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-  <img src="https://img.icons8.com/ios-filled/50/000000/eye.png" alt="eye-icon" height="30" width="30" /> Profile Views
 </p>
