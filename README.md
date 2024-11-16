@@ -6,7 +6,7 @@
 - 💬 Ask Me About: **Python**, **Data Analysis**, **Web Development**, **C**, **DSA**
 - ⚡ Fun Fact: I enjoy coding challenges and solving complex problems! 😉
 
-## 📧 Reach Me:
+## 📧 Connect with me::
 <p align="center">
   <a href="https://linkedin.com/in/sudhanshu-dwivedi-98a5672b5" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
