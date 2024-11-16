@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Dwivedi</h1>
 <h3 align="center" style="margin-bottom: 50px;">B.Tech Student | Data Science Enthusiast & Learner | Web Developer</h3>
 
-- 🎓 Pursuing BTech: ABES Institute of Technology, Ghaziabad
-- 🔭 I’m currently working on **MedAlert**
-- 🌱 I’m currently learning **Python for Data Analytics**, **Django for building web applications**, **Data Analysis techniques and tools** (Pandas, NumPy, Matplotlib)
-- ⚡ Fun Fact: A perfect combo to keep the ideas flowing and the bugs at bay! ☕💻
+- 🎓 **Pursuing BTech**: ABES Institute of Technology, Ghaziabad
+- 🔭 **I’m currently working on** **MedAlert**
+- 🌱 **I’m currently learning** **Python for Data Analytics**, **Django for building web applications**, **Data Analysis techniques and tools** (Pandas, NumPy, Matplotlib)
+- ⚡ **Fun Fact**: A perfect combo to keep the ideas flowing and the bugs at bay! ☕💻
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"><strong>Connect with me:</strong></h3>
 <p align="left" dir="auto" style="display: flex;">
   <a href="https://linkedin.com/in/udhanshu-dwivedi-98a5672b5" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udhanshu-dwivedi-98a5672b5" height="30" width="40" />
@@ -23,7 +23,7 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><strong>Languages and Tools:</strong></h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -35,13 +35,13 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Education 🎓:</h3>
+<h3 align="left"><strong>Education 🎓:</strong></h3>
 <p align="left">
   <strong>Bachelor of Technology, Computer Science Engineering</strong><br>
   Dr. A.P.J. Abdul Kalam Technical University, Lucknow<br>
   <em>(2021 - 2027)</em>
 </p>
-<h3 align="left">Certifications:</h3>
+<h3 align="left"><strong>Certifications:</strong></h3>
 <ul>
   <li><a href="link-to-certificate" target="_blank">Certificate 1: [Course Title]</a></li>
   <li><a href="link-to-certificate" target="_blank">Certificate 2: [Course Title]</a></li>
@@ -50,7 +50,7 @@
   <li><a href="link-to-certificate" target="_blank">Certificate 5: [Course Title]</a></li>
 </ul>
 
-<h3 align="left">My GitHub Stats:</h3>
+<h3 align="left"><strong>My GitHub Stats:</strong></h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sudh182004&show_icons=true&locale=en&layout=compact" alt="sudh182004" />
 </p>
@@ -62,11 +62,11 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudh182004&" alt="sudh182004" />
 </p>
-<h3 align="left">🏆 GitHub Profile Trophy:</h3>
+<h3 align="left"><strong>🏆 GitHub Profile Trophy:</strong></h3>
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=sudh182004" alt="sudh182004" />
 </p>
-<h3 align="left">👀 Profile Views:</h3>
+<h3 align="left"><strong>👀 Profile Views:</strong></h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sudh182004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
 </p>
