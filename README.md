@@ -39,7 +39,7 @@
 <p align="left">
   <strong>Bachelor of Technology, Computer Science Engineering</strong><br>
   Dr. A.P.J. Abdul Kalam Technical University, Lucknow<br>
-  <em>(2021 - 2027)</em>
+  <em>(2024 - 2027)</em>
 </p>
 <h3 align="left"><strong>Certifications:</strong></h3>
 <ul>
