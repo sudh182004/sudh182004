@@ -1,12 +1,32 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Dwivedi</h1>
 <h3 align="center">B.Tech Student | Data Science Enthusiast & Learner | Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudh182004&label=Profile%20views&color=0e75b6&style=flat" alt="sudh182004" /> </p>
+<p align="left"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=sudh182004&show_icons=true&locale=en" alt="sudh182004" /> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudh182004" alt="sudh182004" /></a> </p>
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=sudh182004" alt="sudh182004" />
+</p>
+
+<p align="left">
+  <img src="https://holopin.me/sudh182004" alt="holopin badges" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sudh182004&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+  <img src="https://img.icons8.com/ios-filled/50/000000/eye.png" alt="eye-icon" height="30" width="30" /> Profile Views
+</p>
 
 - 🔭 I’m currently working on **MedAlert**
 - 🌱 I’m currently learning **Python for Data Analytics**, **Django for building web applications**, **Data Analysis techniques and tools** (Pandas, NumPy, Matplotlib)
+
+<h3 align="left">Education 🎓:</h3>
+<p align="left">
+  <strong>Bachelor of Technology, Computer Science Engineering</strong><br>
+  Dr. A.P.J. Abdul Kalam Technical University, Lucknow<br>
+  <em>(2021 - 2027)</em>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
