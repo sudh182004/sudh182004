@@ -8,7 +8,7 @@
 
 <h3 align="left"><strong>😊 Connect with me:</strong></h3>
 <p align="left" dir="auto" style="display: flex;">
-  <a href="https://linkedin.com/in/udhanshu-dwivedi-98a5672b5" target="blank">
+  <a href="https://linkedin.com/in/sudhanshu-dwivedi-98a5672b5" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="udhanshu-dwivedi-98a5672b5" height="30" width="40" />
   </a>
 <!--   <a href="https://instagram.com/xxxx" target="blank">
