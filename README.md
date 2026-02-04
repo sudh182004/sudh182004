@@ -1,91 +1,64 @@
 <h1 align="center">Hi 👋, I'm Sudhanshu Dwivedi</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Native+%2B+Backend+Engineer;AI+%26+Automation+Enthusiast;Building+Real+World+Products" />
+<img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&size=22&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+Native+Developer;Backend+Engineer;Building+Real+World+Projects"/>
 </p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sudh182004&style=flat-square&color=blue"/>
-<img src="https://img.shields.io/github/followers/sudh182004?label=Followers&style=social"/>
-<img src="https://img.shields.io/github/stars/sudh182004?label=Stars&style=social"/>
+<img src="https://img.shields.io/github/followers/sudh182004?style=social"/>
+<img src="https://img.shields.io/github/stars/sudh182004?style=social"/>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🛠 Tech Stack
 
-🎓 B.Tech CSE Student (Data Science)  
-🔭 Building **Visitor Management System (VMS)** & **MedAlert (SOS)**  
-📱 Backend + Android Developer @ **Indic AI Research Lab** (Nov – Present)  
-🌱 Exploring **AI Automation, Mobile Systems & Backend Architecture**  
-⚡ Debugging + Coffee = Productivity ☕  
+### 💻 Languages
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+</p>
 
----
+### 🌐 Frontend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+</p>
 
-## 🧠 Tech Stack
+### ⚙ Backend
+<p>
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+</p>
 
-### Programming Languages
-Python • Java • JavaScript • C  
+### 📱 Mobile
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+<img src="https://seeklogo.com/images/E/expo-go-app-logo-6D8CFC06B6-seeklogo.com.png" width="40"/>
+</p>
 
-### Frontend
-HTML • CSS • Tailwind CSS • React  
+### 🗄 Database & Auth
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+<img src="https://jwt.io/img/pic_logo.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40"/>
+</p>
 
-### Backend
-Django • Node.js • Express.js  
-
-### Mobile
-React Native (Expo)
-
-### Databases & Auth
-MongoDB • Firebase • JWT • Redis • Session Handling  
-
-### Data & Automation
-Pandas • NumPy • Matplotlib • OpenCV  
-API Integration • Zapier  
-
-### DevOps
-Docker • Linux (Ubuntu CLI) • Git • GitHub  
-
-### AI Infrastructure
-NVIDIA DGX A100 (Deployment Exposure)
-
----
-
-## 💼 Experience
-
-### 🔹 Web Development Intern – Intern Hub (Remote)  
-**Nov 2024 – Dec 2024**
-
-• Built responsive websites using HTML, CSS & JS  
-• Optimized pages (20% faster load time)  
-• Added interactive features improving engagement  
-
----
-
-### 🔹 Backend & Android Developer – Indic AI Research Lab  
-**Nov 2024 – Present**
-
-• Building backend APIs  
-• Android integration  
-• AI pipeline support  
-
----
-
-## 🏆 Leadership
-
-### Technical Head – WhiteHat Community (2025 – Present)
-
-• Organized Ideaver innovation challenge  
-• Automated registration & feedback (saved 5+ hrs)  
-• Reviewed projects & coordinated rounds  
-
----
-
-### Core Member – BitBrain Coding Club
-
-• Organized Quiz Master (DSA / OOP / Java)  
-• Built registration systems  
-• Improved coordination by 30%  
+### ⚡ Tools
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+</p>
 
 ---
 
@@ -105,7 +78,7 @@ NVIDIA DGX A100 (Deployment Exposure)
 ## 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sudh182004&theme=darkhub"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sudh182004&theme=onedark"/>
 </p>
 
 ---
@@ -113,18 +86,18 @@ NVIDIA DGX A100 (Deployment Exposure)
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/sudh182004/sudh182004/blob/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/sudh182004/sudh182004/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <p>
 <a href="https://linkedin.com/in/sudhanshu-dwivedi-98a5672b5">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
 </a>
 <a href="mailto:sudh182005@gmail.com">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="35"/>
 </a>
 </p>
