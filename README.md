@@ -65,12 +65,12 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=sudh182004&show_icons=true&theme=tokyonight"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sudh182004&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sudh182004&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://streak-stats.demolab.com?user=sudh182004&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudh182004&layout=compact&theme=tokyonight"/>
+<img width="40%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sudh182004&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -78,7 +78,7 @@
 ## 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sudh182004&theme=onedark"/>
+<img src="https://raw.githubusercontent.com/sudh182004/sudh182004/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
